@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.willena.codereviewintelijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.willena.codereviewintelijplugin.MyBundle
 
 class MyApplicationService {
 
